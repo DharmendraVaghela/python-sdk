@@ -3,6 +3,7 @@
 [![codecov.io](https://codecov.io/github/watson-developer-cloud/python-sdk/coverage.svg?branch=master)](https://codecov.io/github/watson-developer-cloud/python-sdk?branch=master)
 [![Latest Stable Version](https://img.shields.io/pypi/v/watson-developer-cloud.svg)](https://pypi.python.org/pypi/watson-developer-cloud)
 [![Download Times](https://img.shields.io/pypi/dm/watson-developer-cloud.svg)](https://pypi.python.org/pypi/watson-developer-cloud)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7a925555b5924859a37dc65bf701a2e4)](https://www.codacy.com/app/gattana/python-sdk?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=watson-developer-cloud/python-sdk&amp;utm_campaign=Badge_Grade)
 
 Python client library to quickly get started with the various [Watson Developer Cloud][wdc] services.
 
